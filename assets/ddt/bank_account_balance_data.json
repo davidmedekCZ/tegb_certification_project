@@ -1,0 +1,22 @@
+[
+  {
+    "startBalance": 0,
+    "type": "test"
+  },
+  {
+    "startBalance": 200000.52,
+    "type": "temporary"
+  },
+  {
+    "startBalance": -12345.0,
+    "type": "kid"
+  },
+  {
+    "startBalance": -196000921,
+    "type": "credit"
+  },
+  {
+    "startBalance": 298000123,
+    "type": "premium"
+  }
+]
